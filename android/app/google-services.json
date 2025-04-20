@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191678948378",
+    "project_id": "ubaazar-eternity",
+    "storage_bucket": "ubaazar-eternity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191678948378:android:e21d7f55b132fa7b559da3",
+        "android_client_info": {
+          "package_name": "com.ubaazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kQaOFGYOrLUPsccJuDiAcx4fU172src"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
